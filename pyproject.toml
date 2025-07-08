@@ -1,7 +1,7 @@
 [project]
-name = "search-service"
+name = "recommendation-service"
 version = "1.0.0"
-description = "Microservice handling searches (interface with elastic, metadata, subscription)"
+description = "Microservice handling recommendation"
 authors = []
 requires-python = ">=3.12"
 
