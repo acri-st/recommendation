@@ -1,5 +1,6 @@
 # Recommendation
 
+📌 [DESP-AAS Collaborative Services Parent Repository](https://github.com/acri-st/DESP-AAS-Collaborative-Services)
 
 ## Table of Contents
 
